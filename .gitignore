@@ -1,0 +1,7 @@
+# Local browser verification artifacts
+output/playwright/*.png
+.playwright-cli/
+
+# Editor and OS metadata
+.DS_Store
+Thumbs.db
